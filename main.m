@@ -1,6 +1,3 @@
-% Will Newman
-% Final Part 6: Find Transformation Matrix and Stitch
-
 clear;
 
 file_1 = 'image1.png';
